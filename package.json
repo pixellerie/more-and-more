@@ -1,0 +1,23 @@
+{
+  "name": "more-and-more",
+  "version": "1.0.0",
+  "description": "More and more features for less",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixellerie/more-and-more.git"
+  },
+  "keywords": [
+    "less",
+    "css"
+  ],
+  "author": "Daniel Hüttenmeister <kontakt@pixellerie.com> (http://pixellerie.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixellerie/more-and-more/issues"
+  },
+  "homepage": "https://github.com/pixellerie/more-and-more#readme"
+}
